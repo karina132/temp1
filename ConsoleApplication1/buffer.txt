@@ -1,0 +1,9 @@
+a 1 2 3 4 5 6
+b 9 8 7 6 5 4
+c 2 2 2 2 2 2
+Shapovalova 2000 714303 3 4 5 6
+Belchic 1999 714302 7 6 5 4
+Borisenko 2000 714301 2 2 2 2
+Ignatiev 1996 422401 4 4 4 4
+Menkovskaya 1987 2000 9 9 9 9
+Parhomchyk 2000 714303 2 5 7 8 
